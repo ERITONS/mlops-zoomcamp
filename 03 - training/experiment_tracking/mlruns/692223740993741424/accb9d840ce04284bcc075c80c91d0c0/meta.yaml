@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03%20-%20training/experiment_tracking/mlruns/692223740993741424/accb9d840ce04284bcc075c80c91d0c0/artifacts
+end_time: 1772933667699
+entry_point_name: ''
+experiment_id: '692223740993741424'
+lifecycle_stage: active
+run_id: accb9d840ce04284bcc075c80c91d0c0
+run_name: carefree-cod-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772933472235
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03%20-%20training/experiment_tracking/mlruns/692223740993741424/b332a0e12aa04a39968d074ad43f9c8e/artifacts
+end_time: 1772932935442
+entry_point_name: ''
+experiment_id: '692223740993741424'
+lifecycle_stage: active
+run_id: b332a0e12aa04a39968d074ad43f9c8e
+run_name: nosy-fish-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772932935429
+status: 4
+tags: []
+user_id: codespace

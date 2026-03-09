@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03%20-%20training/experiment_tracking/mlruns/692223740993741424/c236fbdcd3c943d791da137f8e29c31e/artifacts
+end_time: 1772933143591
+entry_point_name: ''
+experiment_id: '692223740993741424'
+lifecycle_stage: active
+run_id: c236fbdcd3c943d791da137f8e29c31e
+run_name: dashing-hawk-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772933096015
+status: 3
+tags: []
+user_id: codespace

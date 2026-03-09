@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03%20-%20training/experiment_tracking/mlruns/692223740993741424/0aa2e180053240ef93b828f889d3b2f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '692223740993741424'
+lifecycle_stage: active
+run_id: 0aa2e180053240ef93b828f889d3b2f7
+run_name: rumbling-ray-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772933248713
+status: 1
+tags: []
+user_id: codespace

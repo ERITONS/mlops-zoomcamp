@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03%20-%20training/experiment_tracking/mlruns/692223740993741424/365c2a33739a4d5298b27c1a6b5bd48f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '692223740993741424'
+lifecycle_stage: active
+run_id: 365c2a33739a4d5298b27c1a6b5bd48f
+run_name: crawling-sloth-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772933811308
+status: 1
+tags: []
+user_id: codespace
