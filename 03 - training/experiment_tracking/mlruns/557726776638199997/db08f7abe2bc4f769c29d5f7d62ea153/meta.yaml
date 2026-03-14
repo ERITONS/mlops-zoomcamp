@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03%20-%20training/experiment_tracking/mlruns/557726776638199997/db08f7abe2bc4f769c29d5f7d62ea153/artifacts
+end_time: 1773065997211
+entry_point_name: ''
+experiment_id: '557726776638199997'
+lifecycle_stage: active
+run_id: db08f7abe2bc4f769c29d5f7d62ea153
+run_name: stately-fowl-544
+run_uuid: db08f7abe2bc4f769c29d5f7d62ea153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773065995170
+status: 3
+tags: []
+user_id: codespace

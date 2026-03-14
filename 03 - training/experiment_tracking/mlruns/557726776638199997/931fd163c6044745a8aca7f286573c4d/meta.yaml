@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03%20-%20training/experiment_tracking/mlruns/557726776638199997/931fd163c6044745a8aca7f286573c4d/artifacts
+end_time: 1773065692226
+entry_point_name: ''
+experiment_id: '557726776638199997'
+lifecycle_stage: active
+run_id: 931fd163c6044745a8aca7f286573c4d
+run_name: calm-owl-519
+run_uuid: 931fd163c6044745a8aca7f286573c4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773065684332
+status: 3
+tags: []
+user_id: codespace
