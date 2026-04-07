@@ -9,8 +9,7 @@ pip list
 
 mlflow server --backend-store-uri sqlite:///mlflow.db
 
-
- 
+source .venv/bin/activate
 
 cd '03 - training'
 
