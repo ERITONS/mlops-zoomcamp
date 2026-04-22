@@ -12,3 +12,7 @@ mlflow server --backend-store-uri sqlite:///mlflow.db
 source .venv/bin/activate
 
 cd '03 - training'
+
+Modulo 2: notas:
+
+https://github.com/bengsoon/mlops-zoomcamp/blob/main/02-experiment-tracking/notes/Experiment_Tracking_notes.md

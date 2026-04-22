@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/Eriton/source/repos/mlops-zoomcamp/02-model-registry/experiment_tracking/mlruns/3/models/m-396beabe86b64015b7b0d6d77cad52a6/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.10
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.core.Booster
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.11.1
+model_id: m-396beabe86b64015b7b0d6d77cad52a6
+model_size_bytes: 12314799
+model_uuid: m-396beabe86b64015b7b0d6d77cad52a6
+prompts: null
+run_id: 45d8a0d3a2fb47a38111899b7a5d9cc9
+utc_time_created: '2026-04-22 00:34:50.880258'
